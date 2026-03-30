@@ -137,7 +137,7 @@ MIT 许可证
 - **GitHub**: https://github.com/YichuanAlex
 
 **中文:**
-- **作者**: 姜子溪
+- **作者**: 江子曦
 - **邮箱**: jiangzixi1527435659@gmail.com
 - **GitHub**: https://github.com/YichuanAlex
 
